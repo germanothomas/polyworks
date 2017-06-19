@@ -1,6 +1,8 @@
 # Soldat PolyWorks
 Soldat map editor
 
+This is a fork by As de Espada
+
 Needs VB6 to be compiled.
 
 When VB6 is installed, it may have issues finding referenced controls, such as "MBMouse.ocx".
